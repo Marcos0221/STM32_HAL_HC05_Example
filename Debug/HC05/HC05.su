@@ -1,0 +1,3 @@
+../HC05/HC05.c:13:6:HAL_UART_RxCpltCallback	16	static
+../HC05/HC05.c:41:6:HC05_Init	8	static
+../HC05/HC05.c:74:6:HC05_SendCMD	16	static
